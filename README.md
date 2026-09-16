@@ -5,7 +5,7 @@ The [crates.io](https://crates.io/) package index contains the necessary metadat
 The package index is available at:
 
 - <https://index.crates.io/> as an HTTP API ([sparse protocol](https://rust-lang.github.io/rfcs/2789-sparse-index.html))
-- <https://github.com/rust-lang/crates.io-index> as a git repository
+- <https://github.com/Unity-Billal-mesloub/crates.io-index> as a git repository
 
 The index format is described in detail in [The Cargo Book](https://doc.rust-lang.org/cargo/reference/registry-index.html#index-format).
 
